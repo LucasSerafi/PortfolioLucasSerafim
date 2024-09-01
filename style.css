@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-color: rgba(37, 185, 166, 0.945);
+}
+.menu  {
+    background-color: blueviolet;
+    color: blueviolet;
+    padding: 1%;  
+}
+ul {
+    display: flex;
+    justify-content: center;
+}
+li, a {
+      list-style: none;
+      text-decoration: none;
+      padding: 15px;
+      color: rgb(230, 236, 241);
+}
+.perfil {
+    max-width: 430px;
+    margin-left:32%;
+    margin-top: 0%;
+    
+}
+.txtsobremim {
+    margin-left:0%;
+}
